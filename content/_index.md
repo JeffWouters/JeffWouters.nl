@@ -93,14 +93,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url:
+        - certificate_url: 'https://learn.microsoft.com/en-us/users/jeffwouters/credentials/certification-o-/nouid.1541'
 #          date_end: '2024-01-01'
           date_start: '2013-01-01'
           description: 'Microsoft Certified Trainer'
           organization: Microsoft MCT
           organization_url: https://www.microsoft.com
           title: MCT
-          url: ''
+          url: 'https://aka.ms/mctlounge'
         - certificate_url:
           date_end: '2023-03-01'
           date_start: '2013-06-01'
@@ -108,7 +108,7 @@ sections:
           organization: Microsoft MVP
           organization_url: https://www.microsoft.com
           title: Microsoft MVP
-          url: ''
+          url: 'https://mvp.microsoft.com/'
     design:
       columns: '2'
 #  - block: collection
