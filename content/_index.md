@@ -50,34 +50,62 @@ sections:
             0) Know your limits, and learn those of others. When you know your limits, you know where to invest for growth but also when and what what to delegate.
             
             0) Think before you act. Don't make hasty decisions, and especially not led by emotions. Take your time, and don't ever let external factors make you decide when you're not ready to make a decision. If there's ever a customer or colleague that tries to force you to make a hasty decision, chances are you'll end up drawing the short straw.
-
-        - title: Various employers
-          company: Various companies
-          company_url: ''
-          location: California
-          date_start: '2007-01-17'
-          date_end: '2015-10-30'
+        - title: Infrastructure DevOps Lead
+          company: eVision Industry Software
+          company_url: 'https://www.evision.nl'
+          company_logo: eVision
+          location: The Hague
+          date_start: '2014-08-01'
+          date_end: '2014-12-31'
           description: |2-
-            Starting as a local support engineer, over a period of 8 years I grew into the role of Infrastructure Consultant. During that journey I had the pleasure of working with wonderful people and customers, where I would like to pick out three.
-        - title: Servicedesk-/Local Support Engineer
-          company: Icare Healthcare
-          company_url: 'http://www.icare.nl'
-          company_logo: Icare
-          location: Meppel
-          date_start: '2007-01-17'
-          date_end: '2015-10-30'
+            Since this was a very interesting position, but the customer didn't hire externally, I decided to be employed again. After putting things on track and setting up a long term roadmap, my job was done and I left.
+        - title: Consultant
+          company: BRAIN FORCE
+          company_url: 'https://www.brainforce.nl'
+          company_logo: ''
+          location: Veenendaal
+          date_start: '2011-07-01'
+          date_end: '2012-01-31'
           description: |2-
-            In the project I had before, I was always cursing on the servicedesk for them not properly logging tickets. I only wanted to know 5 things: the 5 W's from Wouters: Who, what, where, when, why? I didn't understood why this was so difficult. Thanks to my time at this servicedesk, I learned just how difficult it can be... and I am very thankful for that.
-
+            For various customers of my employer I've implemented Hyper-V clusters, implemented and troubleshooted most of the System Center and Citrix products. 
+        - title: System Engineer
+          company: InterAccess
+          company_url: 'https://www.sltn.nl'
+          company_logo: SLTNInterAccess
+          location: Hilversum
+          date_start: '2011-01-01'
+          date_end: '2011-06-30'
+          description: |2-
+            Sequencing about 140 applications with App-V for 4 months at a customer's site for a project.
+            For a second customer I was part of the team which handled to operational issues, like server deployment/configuration, solving incidents and general infrastructure problems. I had a personal project to solve issues on about 15 database clusters, based on the Windows Server 2003 (R2) platform with SQL Server and Oracle on it. The issues included unexplainable failovers, resources that could not come online on specific nodes, time skew errors, kerberos errors, etc.
+        - title: System Administrator
+          company: McGregor Fashion Group
+          company_url: 'http://www.mcgregorfashiongroup.nl'
+          company_logo: McGregorFashionGroup
+          location: Driebergen
+          date_start: '2010-04-01'
+          date_end: '2010-08-31'
+          description: |2-
+            MFG hired me to fix and optimize their Citrix/RES environment, where lots of performance challenges and not working applications were considered normal.
         - title: Support Engineer
-          company: RES Software Support
+          company: RES Software
           company_url: 'http://www.res.nl'
           company_logo: RESSoftware
           location: California
-          date_start: '2009-07-01'
-          date_end: '2010-06-01'
+          date_start: '2009-05-01'
+          date_end: '2010-04-01'
           description: |2-
             This is where I learned two very valuable things, where the first was troubleshooting. Because RES' products were so intertwined in the Windows desktop and user experience, proper troubleshooting was a must.
+        - title: Local/Remote Support Engineer
+          company: ING ICT Professionals
+          company_url: 'http://www.nig.nl'
+          company_logo: ''
+          location: Naarden
+          date_start: '2009-04-30'
+          date_end: '2010-06-01'
+          description: |2-
+            Local and remote support, sometimes team lead, for various customers of my employer.
+            Customers: ROC Midden Nederland, ROC ASA Amsterdam, Icare Healthcare, Teijin Aramid / Teijin Twaron and Grontmij.
     design:
       columns: '2'
   - block: accomplishments
