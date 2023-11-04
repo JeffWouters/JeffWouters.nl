@@ -12,7 +12,7 @@ address:
   postcode: '3521 AL'
   country: The Netherlands
 
-summary: The Intune App Factory
+summary: 'In this session I talked about the Intune App Factory, and opensource PowerShell module/framework/solution that we have implemented in our company.'
 abstract: 'In this session, you will learn to use the Intune App Factory, a set of PowerShell scripts that leverage the Intune Win32App module and an Azure DevOps Pipeline, to automate the detection, download, packaging & publishing of onboarded applications as apps to Intune.'
 
 # Talk start and end times.
@@ -25,13 +25,13 @@ all_day: false
 publishDate: '2023-10-07T00:00:00Z'
 
 authors: ['Jeff Wouters']
-tags: []
+tags: [Intune App Factory, PowerShell, Intune]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'AppManagEvent'
   focal_point: Right
 
 links:
