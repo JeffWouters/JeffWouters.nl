@@ -10,6 +10,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: 'Coming in the near future!'
+  image: 'ComingSoon.jpg'
 ---

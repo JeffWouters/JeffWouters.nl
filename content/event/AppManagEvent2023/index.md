@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-10-07T00:00:00Z'
 
-authors: ['Jeff Wouters']
+authors: [Jeff Wouters]
 tags: [Intune App Factory, PowerShell, Intune]
 
 # Is this a featured talk? (true/false)

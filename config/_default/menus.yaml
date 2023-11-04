@@ -8,7 +8,8 @@ main:
     url: '#about'
     weight: 10
   - name: Blog
-    url: 'https://www.jeffops.com'
+#    url: 'https://www.jeffops.com'
+    url: '#blog'
     weight: 20
   - name: Projects
     url: '#projects'

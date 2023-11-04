@@ -10,7 +10,7 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: JeffWouters
+      username: 'Jeff Wouters'
   - block: experience
     content:
       title: Experience
@@ -121,51 +121,57 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 'https://learn.microsoft.com/en-us/users/jeffwouters/credentials/certification-o-/nouid.1541'
+        - #certificate_url: 'https://learn.microsoft.com/en-us/users/jeffwouters/credentials/certification-o-/nouid.1541'
 #          date_end: '2024-01-01'
           date_start: '2013-01-01'
-          description: 'Microsoft Certified Trainer'
+          description: 'Microsoft Certified Trainers (MCTs) are the premier technical and instructional experts in Microsoft technologies. They are part of an esteemed group of worldwide Microsoft training professionals.
+
+          To become a Microsoft Certified Trainer, you need to earn an approved Microsoft Certification validating your experience and knowledge for each course you deliver. The Microsoft Certified Trainer program is an annual membership program. You must meet program requirements, complete an online application, and pay an annual fee to renew your training certification for the coming year.
+
+          As an MCT, you’ll enjoy exclusive benefits including access to the complete library of official Microsoft training and certification products, substantial discounts on exams, books, and Microsoft products. You’ll also have access to Microsoft readiness resources to help enhance your training career and engage with other MCT members in an online forum. You’ll also be invited to exclusive Microsoft and local MCT community events.
+
+          The MCT program is for educators around the world who deliver training on Microsoft technologies. If you have a qualifying certification and are passionate about training others on Microsoft technologies, you’ll be a great MCT.'
           organization: Microsoft MCT
           organization_url: https://www.microsoft.com
-          title: MCT
+          title: Microsoft MCT
           url: 'https://aka.ms/mctlounge'
         - certificate_url:
           date_end: '2023-03-01'
           date_start: '2013-06-01'
-          description: 'Windows PowerShell / Cloud & Datacenter Management'
+          description: 'Microsoft awarded me at first in the category of Windows PowerShell later some categories were merged and became Cloud & Datacenter Management.
+          
+          The Microsoft Most Valuable Professional (MVP) award is given by Microsoft to technology experts who passionately share their knowledge with the community. They are awarded to people who actively share their technical expertise with different technology communities related directly or indirectly to Microsoft1. The MVP recognition lasts for a year and is awarded for a person’s Microsoft related activity, contributions, and influence over the previous year1.
+
+          MVPs are not just technological experts with a deep understanding of Microsoft products and services. They’re also community leaders; someone who avidly shares their knowledge with the community, displaying exceptional leadership and a constant willingness to help others. They are always on the “bleeding edge” and have an unstoppable urge to get their hands on new, exciting technologies3.
+
+          In summary, being an MVP means a lot of passion to share knowledge and engage with the tech community.
+          '
           organization: Microsoft MVP
           organization_url: https://www.microsoft.com
           title: Microsoft MVP
           url: 'https://mvp.microsoft.com/'
     design:
       columns: '2'
-#  - block: collection
-#    id: posts
-#    content:
-#      title: Recent Posts
-#      subtitle: ''
-#      text: ''
+  - block: collection
+    id: blog
+    content:
+      title: Past & Future Talks
+      filters:
+        folders:
+          - blog
+      title: Blog
+      subtitle: 'Not yet ;-)'
+      text: 'Working on a completely new blog site, I hope to have it online soon!'
       # Choose how many pages you would like to display (0 = all pages)
-#      count: 3
-      # Filter on criteria
-#      filters:
-#        folders:
-#          - post
-#        author: ""
-#        category: ""
-#        tag: ""
-#        exclude_featured: false
-#        exclude_future: false
-#        exclude_past: false
-#        publication_type: ""
+      count: 3
       # Choose how many pages you would like to offset by
-#      offset: 0
+      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-#      order: asc
-#    design:
+      order: asc
+    design:
       # Choose a layout view
-#      view: compact
-#      columns: '2'
+      view: compact
+      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -199,17 +205,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-#  - block: collection
-#    id: featured
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      columns: '2'
-#      view: card
   - block: collection
     id: talks
     content:

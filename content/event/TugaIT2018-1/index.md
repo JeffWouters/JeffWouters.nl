@@ -31,4 +31,10 @@ featured: false
 image:
   caption: 'TugaIT'
   focal_point: Right
+
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/jeffwouters
 ---
