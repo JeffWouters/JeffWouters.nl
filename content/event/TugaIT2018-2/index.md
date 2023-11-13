@@ -16,7 +16,7 @@ abstract: 'This session is all about tips and tricks you can use in PowerShell. 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-07-19T00:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2018-07-19T00:00:00Z'

@@ -18,8 +18,7 @@ abstract: 'In this session, you will learn to use the Intune App Factory, a set 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-10-06T00:00:00Z'
-#date_end: '2030-06-01T00:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-10-07T00:00:00Z'
