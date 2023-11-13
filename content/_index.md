@@ -231,7 +231,7 @@ sections:
       appointment_url: 'https://outlook.office365.com/owa/calendar/MethosBV@methos.nl/bookings/'
       address:
         city: Nieuwegein
-        postcode: 3437 HG
+#        postcode: 3437 HG
         country: The Netherlands
         country_code: NL
       contact_links:
