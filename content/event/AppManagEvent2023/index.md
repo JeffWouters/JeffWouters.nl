@@ -12,7 +12,7 @@ address:
   postcode: '3521 AL'
   country: The Netherlands
 
-summary: 'In this session I talked about the Intune App Factory, and opensource PowerShell module/framework/solution that we have implemented in our company.'
+summary: 'In this session I talked about the Intune App Factory, an opensource PowerShell module/framework/solution that we have implemented in our company.'
 abstract: 'In this session, you will learn to use the Intune App Factory, a set of PowerShell scripts that leverage the Intune Win32App module and an Azure DevOps Pipeline, to automate the detection, download, packaging & publishing of onboarded applications as apps to Intune.'
 
 # Talk start and end times.
