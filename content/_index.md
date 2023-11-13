@@ -120,8 +120,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - #certificate_url: 'https://learn.microsoft.com/en-us/users/jeffwouters/credentials/certification-o-/nouid.1541'
-          date_start: 'Jan 2013'
-#          date_end: '2085-01-01'
+          date_start: '2013-01-01'
+          date_end: '2085-01-01'
           description: 'Microsoft Certified Trainers (MCTs) are the premier technical and instructional experts in Microsoft technologies. They are part of an esteemed group of worldwide Microsoft training professionals.
 
           To become a Microsoft Certified Trainer, you need to earn an approved Microsoft Certification validating your experience and knowledge for each course you deliver. The Microsoft Certified Trainer program is an annual membership program. You must meet program requirements, complete an online application, and pay an annual fee to renew your training certification for the coming year.
