@@ -31,25 +31,23 @@ sections:
           date_start: '2015-11-01'
           date_end: ''
           description: |2-
-            As the founder and technical lead of the company, in the end, I am responsible for everything, but I focus on the culture and technical direction.
-            Regarding my preferred managemend style, there are a few phrases that guide me:
+            As the founder and technical lead of the company I am responsible for everything, but I focus on the culture and technical direction.
+            Regarding my preferred management style, there are a guidelines I adhere to:
 
-            1) Sometimes it's the little things that matter. Someone's father was rushed to the hospital, their car broke down, the came back from vacation or even when they just bought a house or it's their birthday.
+            1) Sometimes it's the little things that matter. Someone's father was rushed to the hospital, their car broke down, they came back from vacation, when they just bought a house or it's their birthday.
             Send a cake/pie when someone has a birthday, send a post card when someone has a birthday or bought a house, or call them when they had unplanned work in the weekend and thank them for their work and ask them how they're doing. People tend to appreciate this, and it takes little effort to do it.
 
-            2) Learn when to listen and when to respond. Sometimes people come to me with their problems or challenges. But not always they want me to provide a solution. Sometimes they just want to 
-            Every now and then I catch myself listening to someone and before they finish what they're saying, I already have my answer ready and I'm impatiently waiting to give it to them. Sometimes that means that I didn't listen to the last bit of what they were saying.
-            These days most people listen to what others tell them with the intention to reply. Lots of times this takes away from the actual listening to what they are saying.
+            2) Learn when to listen and when to respond. Sometimes people come to me with their problems or challenges. But not always they want me to provide a solution. Sometimes they just want to vent.
 
-            3) Learn to delegate. There are only so much hours in a day, and days in a week, etc. So in order to do more than you can accomplish just on your own, you'll need to delegate. Next to this, your employees/colleagues will probably value your trust and answer with their respect, or even loyalty.
+            3) Learn to delegate. There are only so many hours in a day, and days in a week. So in order to do more than you can accomplish just on your own, you'll need to delegate. Next to this, your employees/colleagues will probably value your trust and answer with their respect, or even loyalty.
 
-            When it comes to fostering the culture of the company, here are the phrases that I try to always abide by:
+            When it comes to fostering the culture of the company, here are the phrases that I try to always adhere by:
 
-            0) Anything can be discussed, even passionately, but always respectfully. Try to respect the opinions, views and points of others, or at least understand them. You don't have to agree with them, naturally. But a bit of understanding goes a long way.
+            1) Anything can be discussed, even passionately, but always respectfully. Try to respect the opinions, views and points of others, or at least understand them. You don't have to agree with them, naturally. But a bit of understanding goes a long way.
 
-            0) Know your limits, and learn those of others. When you know your limits, you know where to invest for growth but also when and what what to delegate.
+            2) Know your limits, and learn those of others. When you know your limits, you know where to invest for growth but also when and what what to delegate.
             
-            0) Think before you act. Don't make hasty decisions, and especially not led by emotions. Take your time, and don't ever let external factors make you decide when you're not ready to make a decision. If there's ever a customer or colleague that tries to force you to make a hasty decision, chances are you'll end up drawing the short straw.
+            3) Think before you act. Don't make hasty decisions, and especially not led by emotions. Take your time, and don't ever let external factors make you decide when you're not ready to make a decision. If there's ever a customer or colleague that tries to force you to make a hasty decision, chances are you'll end up drawing the short straw.
         - title: Infrastructure DevOps Lead
           company: eVision Industry Software
           company_url: 'https://www.evision.nl'
@@ -67,7 +65,7 @@ sections:
           date_start: '2011-07-01'
           date_end: '2012-01-31'
           description: |2-
-            For various customers of my employer I've implemented Hyper-V clusters, implemented and troubleshooted most of the System Center and Citrix products. 
+            For various customers of my employer I've implemented Hyper-V clusters, implemented and troubleshooted most of the System Center and Citrix products.
         - title: System Engineer
           company: InterAccess
           company_url: 'https://www.sltn.nl'
@@ -104,8 +102,8 @@ sections:
           date_start: '2009-04-30'
           date_end: '2010-06-01'
           description: |2-
-            Local and remote support, sometimes team lead, for various customers of my employer.
-            Customers: ROC Midden Nederland, ROC ASA Amsterdam, Icare Healthcare, Teijin Aramid / Teijin Twaron and Grontmij.
+              Local and remote support, sometimes team lead, for various customers of my employer.
+              Customers: ROC Midden Nederland, ROC ASA Amsterdam, Icare Healthcare, Teijin Aramid / Teijin Twaron and Grontmij.
     design:
       columns: '2'
   - block: accomplishments
@@ -237,10 +235,10 @@ sections:
         country: The Netherlands
         country_code: NL
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://x.com/jeffwouters'
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://x.com/jeffwouters'
         - icon: linkedin
           icon_pack: fab
           name: Connect with me
