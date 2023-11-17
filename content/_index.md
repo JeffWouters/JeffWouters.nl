@@ -230,7 +230,7 @@ sections:
       phone: +31 6 81 24 48 11
       appointment_url: 'https://outlook.office365.com/owa/calendar/MethosBV@methos.nl/bookings/'
       address:
-        city: Nieuwegein
+#        city: Nieuwegein
 #        postcode: 3437 HG
         country: The Netherlands
         country_code: NL
