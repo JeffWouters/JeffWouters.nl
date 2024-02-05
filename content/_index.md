@@ -136,7 +136,7 @@ sections:
           organization_url: https://www.microsoft.com
           title: Microsoft MCT
           url: 'https://aka.ms/mctlounge'
-        - certificate_url:
+        - certificate_url: https://www.credly.com/earner/earned/badge/02d3e379-4dfe-488a-a311-6925ec74c25b
           date_start: '2013-06-01'
           date_end: '2022-06-01'
           description: 'Microsoft awarded me at first in the category of Windows PowerShell later some categories were merged and became Cloud & Datacenter Management.
