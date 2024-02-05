@@ -19,7 +19,7 @@ role: CTO / Lead Consultant
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Methos BV
-    url: https://www.methosn.nl
+    url: https://www.methos.nl
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include infrastructure-as-code, DevOps, Platform Engineering, CI/CD and PowerShell.
