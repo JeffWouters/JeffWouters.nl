@@ -12,6 +12,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: 'Jeff Wouters'
   - block: experience
+    design:
+      columns: '2'
     content:
       title: Experience
       # Date format for experience
@@ -22,6 +24,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      order: asc
       items:
         - title: Owner / CTO / Lead Consultant
           company: Methos
@@ -112,7 +115,7 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2023
+      # date_format: Jan 2023
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -121,7 +124,7 @@ sections:
       items:
         - #certificate_url: 'https://learn.microsoft.com/en-us/users/jeffwouters/credentials/certification-o-/nouid.1541'
           date_start: '2013-01-01'
-          date_end: '2085-01-01'
+          date_end: ''
           description: 'Microsoft Certified Trainers (MCTs) are the premier technical and instructional experts in Microsoft technologies. They are part of an esteemed group of worldwide Microsoft training professionals.
 
           To become a Microsoft Certified Trainer, you need to earn an approved Microsoft Certification validating your experience and knowledge for each course you deliver. The Microsoft Certified Trainer program is an annual membership program. You must meet program requirements, complete an online application, and pay an annual fee to renew your training certification for the coming year.
@@ -135,7 +138,7 @@ sections:
           url: 'https://aka.ms/mctlounge'
         - certificate_url:
           date_start: '2013-06-01'
-          date_end: '2085-01-01'
+          date_end: '2022-06-01'
           description: 'Microsoft awarded me at first in the category of Windows PowerShell later some categories were merged and became Cloud & Datacenter Management.
           
           The Microsoft Most Valuable Professional (MVP) award is given by Microsoft to technology experts who passionately share their knowledge with the community. They are awarded to people who actively share their technical expertise with different technology communities related directly or indirectly to Microsoft1. The MVP recognition lasts for a year and is awarded for a person’s Microsoft related activity, contributions, and influence over the previous year1.
